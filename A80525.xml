@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Copie of that letter mentioned in a letter printed July 12. written out of Lancashire which was sent in the name of the army by two souldiers, to the souldiery of Lancashire, to invite and draw them in to adhere to the army. ; Together with a postscript.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80525</idno>
+            <idno type="STC">Wing C6200</idno>
+            <idno type="STC">ESTC R201684</idno>
+            <idno type="EEBO-CITATION">45504446</idno>
+            <idno type="OCLC">ocm 45504446</idno>
+            <idno type="VID">171751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2589:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Copie of that letter mentioned in a letter printed July 12. written out of Lancashire which was sent in the name of the army by two souldiers, to the souldiery of Lancashire, to invite and draw them in to adhere to the army. ; Together with a postscript.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Dulwich College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Officials and employees --  Salaries, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171751:1"/>
+            <p>A COPIE OF THAT LETTER Mentioned in a Letter printed <hi>Ju<g ref="char:EOLhyphen"/>ly</hi> 12. written out of <hi>Lancaſhire.</hi>
+            </p>
+            <p>Which was ſent in the name of the Army by two Souldiers, to the Souldiery of <hi>Lancaſhire,</hi> to invite and draw them in to adhere to the Army.</p>
+            <p>Together with a Poſtſcript.</p>
+            <q>
+               <bibl>MATTH. 23.15.</bibl>
+               <p>VVoe unto you Scribes and Phariſees, hypocrites, for ye com<g ref="char:EOLhyphen"/>paſſe ſea and land, to make one Proſelyte, and when he is made, ye make him two fold more the childe of hell then your ſelves.</p>
+            </q>
+            <p>Printed in the yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171751:2"/>
+            <pb n="1" facs="tcp:171751:2"/>
+            <head>A Copy of that Letter, mentioned in a Letter printed <hi>July</hi> 12. written out of <hi>Lancaſhire,</hi> &amp;c.</head>
+            <opener>
+               <salute>Honoured friends and fellow Souldiers:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E doubt not but various re<g ref="char:EOLhyphen"/>ports of this Armies procee<g ref="char:EOLhyphen"/>dings, are come to your eares, which may beget ſtrange interpretations of us and our actions; for prevention whereof, as alſo (to unfold our real intentions unto you) we have here indeavoured to poſſeſſe you with the truth, and right underſtanding of us.</p>
+            <p>We are very ſenſible how ready your envious and malitious are to ſuggeſt evill of us undeſerved<g ref="char:EOLhyphen"/>ly, and to blow up the coales of diſcention betwixt the Parliament and this Army, by miſ-repreſent<g ref="char:EOLhyphen"/>ing all our proceedings, though never ſo juſt, mo<g ref="char:EOLhyphen"/>deſt, and humble; as witneſſe the harſh, and in<g ref="char:EOLhyphen"/>deed unjuſt proceedings lately againſt us, for no other thing, then intending to preſent our neceſſa<g ref="char:EOLhyphen"/>ry requeſts to our Generall by way of Petition, which (though but intended) ſo highly croſſed the
+<pb n="2" facs="tcp:171751:3"/>ſpirit of ſome, as ye prevailed to have us declared againſt as enemies to the State; which dealing of theirs is nothing correſpondent with our deſerts, or ſuitable to the nature of our Petition; and there<g ref="char:EOLhyphen"/>fore may (if ſuch ambitious men continue in their as yet uncontrollable power) equally extend both to you and any other Members of this Kingdom, with the abſolute loſſe of their Rights and Privi<g ref="char:EOLhyphen"/>ledges which were doubly his, <hi>viz.</hi> both by birth and conqueſt: And as at firſt you and we took up Armes to free our ſelves from Tyranny and Op<g ref="char:EOLhyphen"/>preſſion; ſo we doubt not but you reſolve to per<g ref="char:EOLhyphen"/>ſevere with us in our humble deſires of Juſtice and equity, the impartiall adminiſtration whereof is without doubt, eſſentiall to this Kingdoms hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <p>Friends, we hope our diligence and faithfulneſſe in the late ſervice, are ſufficient evidence of our cordiall affections to this Kingdomes welfare, they which we ſo much tender beyond all other Rela<g ref="char:EOLhyphen"/>tions, as that we could willingly deny our own par<g ref="char:EOLhyphen"/>ticulars for a happy and peaceable ſettlement there<g ref="char:EOLhyphen"/>of, that the Subjects might freely injoy their pro<g ref="char:EOLhyphen"/>per Rights, without ſuch apparent checks of Ty<g ref="char:EOLhyphen"/>ranny and Oppreſſion, as this poore Kingdome at preſent is more ſubject to then ever. Our humble addreſſes have been ſlighted and rejected (though reaſonable) and had no other anſwer then a Vote to disband the Army, with an inconſiderable ſum of eight weeks pay; not ſufficient to maintaine the private Souldiers in their journeyes home, which ſo diſcontented them, as that at the Generall Ren<g ref="char:EOLhyphen"/>dezvouze
+<pb n="3" facs="tcp:171751:3"/>the Army contracted and ingaged not to be disbandrd or divided, but intirely to preſerve themſelves from ſuch diſtractions as appeared to be plotting againſt us by our malitious Enemies: And if an Army whoſe faithfulneſſe hath been ſea<g ref="char:EOLhyphen"/>led with their blood, ſhall be ſo ſlighted, as to be declared Enemies whileſt they have Armes in their hands, for onely intending an humble addreſſe by Petition, for but what is their due, and no more then was frequently promiſed at their firſt ingage<g ref="char:EOLhyphen"/>ment; what may not be done againſt them when they ſhall be disbanded, and ſo diſperſed one from another, we leave you and the whole world to judge; eſpecially when thoſe men remaining in the ſame Power and Authority, who firſt miſ-re<g ref="char:EOLhyphen"/>preſented our intentions to the Parliament, and who begot that undeſerved brand upon us, of being Enemies, ſo that neither we nor the King<g ref="char:EOLhyphen"/>dom can injoy freely peace and juſtice, when ſuch unjuſt men ſhall be Judges ſtill, having the liberty to perſiſt in their indeavours, to ſet diviſion be<g ref="char:EOLhyphen"/>twixt us and the Parliament and Kingdome, by their raiſing ſcandals upon us, and ſo farre as ye can to ingage the City of <hi>London</hi> and Kingdom of <hi>Scotland</hi> againſt us.</p>
+            <p>And leaſt that you upon miſ-information ſhould be induced to ſtrengthen the hands of theſe Incendiaries againſt this Army, whereby they may be better inabled to tread Juſtice under foot, nd advance their own unjuſt proceedings; We hold it our Duty, as members of one and the ſame Kingdome with you, to let you underſtand both
+<pb n="4" facs="tcp:171751:4"/>of our juſt proceeding, and their violent inten<g ref="char:EOLhyphen"/>tions, and we doubt not but as hitherto you have appeared publike friends in this Kingdoms diſtreſſe, ſo you will now demonſtrate your ſelves faithfull members thereof, in endeavouring its preſervation from a tyranny and oppreſſion, truſting your fidelity to the Publike good is ſuch as neither the frownes, favours, nor ſubtill policies of any whomſoever can move you from your former acknowledged ſtedfaſtneſſe, ſo as to ingage with the <hi>Scots,</hi> or any other forces againſt the Army, whereby to im<g ref="char:EOLhyphen"/>broyle this now poore Kingdome in a new and bloody warre, whoſe former glory hath been ter<g ref="char:EOLhyphen"/>rour and amazement to its neighbours and other forraigne parts; ſo hoping God will direct you in improving your utmoſt endeavours and abilities for the uſe of the Publike, which if not looked to will be made ſub-ſerviant to the private intereſts and deſignes of particular men, who intend to raiſe themſelves by its owne ruine, which we in our places (and we hope you in yours) will endeavour to keepe off; and to that end the Lord direct you; ſo we bid you heartily farewell, reſting yours and the Kingdomes faithfull friends and ſervants, agi<g ref="char:EOLhyphen"/>tating in behalfe of the Army.</p>
+            <p>We have ſent you herewith the Declarations of the Army, more fully to ſatisfie you of our intenti<g ref="char:EOLhyphen"/>ons, with other Papers.</p>
+            <list>
+               <item>
+                  <hi>Hdw. Siegeby, John Taylor,</hi> Generalls Regiment of Horſe.</item>
+               <item>
+                  <hi>William Allin, Sam. Whiting,</hi> Lieutenant Gene<g ref="char:EOLhyphen"/>rall <hi>Cromwells</hi> Regiment.</item>
+               <pb n="5" facs="tcp:171751:4"/>
+               <item>
+                  <hi>Anth. Nichſon, Tho. Shepheard,</hi> Commiſſ. Gene<g ref="char:EOLhyphen"/>ralls Regiment.</item>
+               <item>
+                  <hi>William Jones,</hi> Col, <hi>Fleetwoods</hi> Regiment.</item>
+               <item>
+                  <hi>Nich. Lorkins, Jo. Brachan,</hi> Col. <hi>Rich</hi> his Regi<g ref="char:EOLhyphen"/>ment.</item>
+               <item>
+                  <hi>Jo. Wllloughby, Tobias Cox,</hi> Col. <hi>Nortons</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+               <item>
+                  <hi>Edw. Sterr, Edw. Githings,</hi> Col. <hi>Harris</hi> Regiment.</item>
+               <item>
+                  <hi>Burton Wilcock, Rich. Clarke,</hi> Col. <hi>Tomlinſons</hi> Regiment.</item>
+               <item>
+                  <hi>Rich. Salter, Geo. Stephenſon,</hi> Col. <hi>Scroopes</hi> Re<g ref="char:EOLhyphen"/>giment.</item>
+               <item>
+                  <hi>Jo. Wilſon, Nath. Seuſter,</hi> Col. <hi>Roſitors</hi> Regiment.</item>
+               <item>
+                  <hi>Daniel Abot</hi> Major, <hi>Iohn Carler, Iohn Cleack, Edm. Rolph, Alex. Brafield, Hen. Audley, Amos Stoddard, Edw. Twigg,</hi> Captaines.</item>
+            </list>
+            <list>
+               <head>Foot Regiments.</head>
+               <item>Io. Newſon, Edw. Vahan, <hi>Col.</hi> Gerands <hi>Regiment.</hi>
+               </item>
+               <item>Nath. Forgill, VVill. Bridgeman, <hi>Col.</hi> Hamonds <hi>Regiment.</hi>
+               </item>
+               <item>Iohn Millers, Rich. Coulbrand, <hi>Col.</hi> Lambards <hi>Re<g ref="char:EOLhyphen"/>giment.</hi>
+               </item>
+               <item>Robert Maſon, Hen. Anderton, <hi>Col.</hi> VVhalers <hi>Re<g ref="char:EOLhyphen"/>giment.</hi>
+               </item>
+               <item>Iohn Field, Edw. Swalbie, <hi>Col.</hi> Lilburnes <hi>Regi<g ref="char:EOLhyphen"/>ment.</hi>
+               </item>
+               <item>Rich. Andrewes, Ra. Prentice, <hi>Col.</hi> Prides <hi>Regi<g ref="char:EOLhyphen"/>ment.</hi>
+               </item>
+               <item>Edw. Garner, <hi>Col.</hi> Hughſons <hi>Regiment.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:171751:5"/>
+            <head>A Poſtſcript, ſhewing what ſucceſſe this Letter from the Army had among the Souldery in Lancaſhire.</head>
+            <p>THe generall Committee of our County, and all the Commanders had a meeting this week, the Commanders generally have declared their well affection to the Parliament, and have expreſt themſelves in high Language to one of the Troo<g ref="char:EOLhyphen"/>pers that came from the Army in diſlike of his courſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
